@@ -5,6 +5,7 @@
 
 ## 기술 스택
 - **Frontend**: React, TypeScript
+- **State Management**: React Context API
 - **Build Tool**: Vite
 - **Package Manager**: pnpm
 - **Testing**: Jest
